@@ -1,6 +1,6 @@
 # 03_fedex
 
-I the the notebook `03_fedex.ipynb` we analyzing delivery data of Fedex. The additional visualization and overall summary can be found [here](https://bayan2019.github.io/03_fedex_html/)
+In the notebook `03_fedex.ipynb` there is analysis delivery data of Fedex. The additional visualization and overall summary can be found [here](https://bayan2019.github.io/03_fedex_html/)
 
 Managers at Fedex have to evaluate a lot of factors before taking a decision of delivery.
 The objective of this project is to optimize the process of planning delivery.
@@ -16,7 +16,7 @@ Success Criteria:
 - Economic Success Criteria: Fedex will see a decrease in lost by at least 30%
 
 Proposed Plan:
-Grouping deliveries will allow to understand the characteristics of each group.
+Classification of deliveries will allow to understand the characteristics of each group.
 
 There was provided a big dataset or 3 604 175 package delivery records.
 
